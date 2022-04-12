@@ -7,4 +7,4 @@
 
 ![ ](https://raw.githubusercontent.com/RSE-Sheffield/RSE-Sheffield.github.io/master/assets/images/logo/rse-logoonly-stroke-small.png)
 
-[link to a popular search engine] (http://www.google.com)
+[link to a popular search engine](http://www.google.com)
